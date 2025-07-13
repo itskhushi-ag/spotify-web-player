@@ -36,7 +36,7 @@ A simple and elegant **Spotify-inspired music player UI** built using **HTML & C
 
 ## 🌐 Live Demo
 
-🔗 [View Live on GitHub Pages](https://itskhushi-ag.github.io/spotify-clone)  
+🔗 [View Live on GitHub Pages]([https://itskhushi-ag.github.io/spotify-clone](https://spotify-ui-webplayer-clone.netlify.app/))  
 ---
 
 ## ✨ Credits
