@@ -3,6 +3,7 @@
 A simple and elegant **Spotify-inspired music player UI** built using **HTML & CSS only**. This project focuses on replicating the look and feel of Spotify's desktop interface, including sidebar navigation, trending sections, and a custom music control bar.
 
 > ⚠️ Currently optimized for **desktop view**. Not fully responsive yet.
+> “This is part of my ongoing learning journey in web development. I’ll be improving it with responsiveness and JavaScript in future iterations.”
 
 ---
 
